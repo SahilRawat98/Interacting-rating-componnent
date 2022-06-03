@@ -13,5 +13,7 @@ To develop a interacting rating component using-
 
 #
 # This is how interacting rating componen look's like -
-![interacting rating componen](rating.jpg)
+![interacting rating componen](rating.jpg) 
+![](rating5.jpg) 
+![](thankyou.jpg)
 #
